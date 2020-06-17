@@ -41,4 +41,3 @@ jobs:
     
     - name: deploying on surge
       run: surge ./build http://bootcamp_session2_assignment02_02.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
-
