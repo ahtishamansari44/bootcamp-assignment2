@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Courses title="Web Development Course:">
+        <Course course="LINUX" />
         <Course course="HTML" />
         <Course course="CSS" />
         <Course course="JAVASCRIPT" />
