@@ -1,5 +1,4 @@
 import React from 'react'
-import Course from './course'
 
 function Courses(props){
    return (
